@@ -14,6 +14,6 @@
 4|80|50
 2|70|10|
 
-下为温度对模糊标记的隶属度<br>
-![image](https://github.com/mxi15/Fuzzy-algorithm/blob/master/temperature.png)
-
+下为温度与湿度对模糊标记的隶属度<br>
+.<img src="https://github.com/mxi15/Fuzzy-algorithm/blob/master/temperature.png" width="450" height="300" />
+.<img src="https://github.com/mxi15/Fuzzy-algorithm/blob/master/humidity.png" width="450" height="300" />
