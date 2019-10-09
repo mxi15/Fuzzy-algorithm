@@ -14,3 +14,6 @@
 4|80|50
 2|70|10|
 
+下为温度对模糊标记的隶属度
+![image](https://github.com/mxi15/Fuzzy-algorithm/temperature.png)
+
